@@ -1,4 +1,4 @@
 # jquery-slider
 jquery slider
 
-JakubStepinski.github.io/jquery-slider
+https://JakubStepinski.github.io/jquery-slider
